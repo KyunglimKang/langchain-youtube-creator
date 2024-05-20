@@ -1,1 +1,2 @@
-apikey = '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'
+apikey = 'example'
+# 예시 : apikey = 'abscksdnkasdk'
